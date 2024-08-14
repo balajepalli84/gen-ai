@@ -1,0 +1,45 @@
+response:{
+  "chat_response": {
+    "api_format": "COHERE",
+    "chat_history": [
+      {
+        "message": "Tell me something about Oracle.",
+        "role": "USER"
+      },
+      {
+        "message": "Oracle is one of the largest vendors in the enterprise IT market and the shorthand name of its flagship product. The database software sits at the center of many corporate IT",
+        "role": "CHATBOT",
+        "tool_calls": null
+      },
+      {
+        "message": "Good to hear that, I want to know about Cohere Gen AI",
+        "role": "USER"
+      },
+      {
+        "message": "Cohere's Generative AI, also known as Cohere Gen AI, is a cutting-edge technology that enables machines to generate human-like responses, creative content, and various forms of textual output...",
+        "role": "CHATBOT",
+        "tool_calls": null
+      },
+      {
+        "message": "tell me about oci gen 2",
+        "role": "USER"
+      },
+      {
+        "message": "OCI Gen 2, short for Oracle Cloud Infrastructure Gen 2, is the latest version of Oracle's cloud infrastructure. It's designed to simplify the development and management of cloud applications, offering improved scalability, performance, and security compared to the previous generation.\n\nSome key features of OCI Gen 2 include:\n\n1. Simplified Networking: It introduces a new virtual cloud network architecture that makes it easier to create and manage networks, enabling seamless connectivity across regions.\n\n2. Enhanced Compute: It offers bare metal instances, which are physical servers dedicated to individual customers, providing higher performance and security for compute-intensive workloads.\n\n3. Autonomous Database: OCI Gen 2 integrates Autonomous Database, a self-driving, self-repairing database service that uses machine learning to optimize performance and security.\n\n4. Fast and Secure Storage: It provides high-performance block storage with robust data protection, including encryption in transit and at rest.\n\n5. Global Load Balancing: It enables intelligent traffic management across regions, ensuring high availability and optimizing the user experience.\n\n6. Easy Migration: It offers tools to migrate existing workloads to the Oracle Cloud, including the ability to lift and shift applications with minimal changes.\n\n7. Integrated AI and Machine Learning: OCI Gen 2 offers native AI capabilities, including machine learning models that can be trained and deployed within the infrastructure.\n\n8. Cost Efficiency: It introduces new pricing options for greater flexibility, including savings plans and reserved instances, which can reduce costs significantly.\n\nOracle continuously invests in OCI Gen 2 to improve its capabilities and offer a robust cloud computing platform for businesses. It's designed to handle the most demanding workloads and provide a reliable foundation for building cloud applications.",
+        "role": "CHATBOT",
+        "tool_calls": null
+      }
+    ],
+    "citations": null,
+    "documents": null,
+    "error_message": null,
+    "finish_reason": "COMPLETE",
+    "is_search_required": null,
+    "prompt": null,
+    "search_queries": null,
+    "text": "OCI Gen 2, short for Oracle Cloud Infrastructure Gen 2, is the latest version of Oracle's cloud infrastructure. It's designed to simplify the development and management of cloud applications, offering improved scalability, performance, and security compared to the previous generation.\n\nSome key features of OCI Gen 2 include:\n\n1. Simplified Networking: It introduces a new virtual cloud network architecture that makes it easier to create and manage networks, enabling seamless connectivity across regions.\n\n2. Enhanced Compute: It offers bare metal instances, which are physical servers dedicated to individual customers, providing higher performance and security for compute-intensive workloads.\n\n3. Autonomous Database: OCI Gen 2 integrates Autonomous Database, a self-driving, self-repairing database service that uses machine learning to optimize performance and security.\n\n4. Fast and Secure Storage: It provides high-performance block storage with robust data protection, including encryption in transit and at rest.\n\n5. Global Load Balancing: It enables intelligent traffic management across regions, ensuring high availability and optimizing the user experience.\n\n6. Easy Migration: It offers tools to migrate existing workloads to the Oracle Cloud, including the ability to lift and shift applications with minimal changes.\n\n7. Integrated AI and Machine Learning: OCI Gen 2 offers native AI capabilities, including machine learning models that can be trained and deployed within the infrastructure.\n\n8. Cost Efficiency: It introduces new pricing options for greater flexibility, including savings plans and reserved instances, which can reduce costs significantly.\n\nOracle continuously invests in OCI Gen 2 to improve its capabilities and offer a robust cloud computing platform for businesses. It's designed to handle the most demanding workloads and provide a reliable foundation for building cloud applications.",
+    "tool_calls": null
+  },
+  "model_id": "ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceyawk6mgunzodenakhkuwxanvt6wo3jcpf72ln52dymk4wq",
+  "model_version": "1.2"
+}
